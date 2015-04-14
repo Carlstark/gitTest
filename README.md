@@ -2,13 +2,13 @@
 Sourcecode for Supporting Periphery Modules Produced by Embest
 
 ---------------------------
-How to Build The Source Code
+# How to Build The Source Code
 
     Please refer to the shell script make.sh under source code directory.
 
 
 ---------------------------
-How to Configure Different LCD Modules
+## How to Configure Different LCD Modules
 
 LCD8000-43t:
 
