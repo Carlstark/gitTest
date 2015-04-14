@@ -1,6 +1,6 @@
 # SAMA5Dx V4L2 Camera
 
-<table width='480'>
+<table width='800px'>
  <tr>
   <th>Module</th>
   <th>Resolution</th>
