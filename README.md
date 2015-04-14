@@ -21,8 +21,8 @@
   <td>800x600</td>
  </tr>
  <tr>
-  <td  rowspan='2'>CAM8100-D</td>
-  <td  rowspan='2'>OV5640</td>
+  <td rowspan='2'>CAM8100-D</td>
+  <td rowspan='2'>OV5640</td>
  </tr>
  <tr>
   <td>640x480</td>
